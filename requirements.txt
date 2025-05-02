@@ -1,0 +1,8 @@
+pandas
+numpy
+pyarrow
+matplotlib
+tensorflow==2.6.0
+tensorflow-gpu==2.6.0
+scikit-learn
+scipy
